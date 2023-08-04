@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    height: 100px;
+    padding: 20px;
+    color: aqua
+}
+h1{
+    color: aliceblue;
+}
+nav ul li {
+    display:inline;
+    color: bisque;
+    padding: 20px;
+
+}
+nav ul li a{
+    color: bisque;
+    
+}
+#home img{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+}
+#portfolio{
+    background-color: rgb(193, 235, 131);
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    height:20px;
+    color: black;
+    padding: 10px;
+}
+footer p{
+    color:antiquewhite;
+}
+li{
+    display: inline;
+    margin-right:10px ;
+    color: black;
+  }
+  #skills{
+    background-color: rgb(243, 171, 77);
+  }
+  #contact{
+    background-color:lightslategrey
+  }
+  #home{
+    background-color: dimgray;
+  }
+  #bio{
+    background-color: rgb(224, 150, 187);
+  }
+
